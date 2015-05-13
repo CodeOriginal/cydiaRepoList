@@ -96,7 +96,9 @@ deb http://cydia.evilpengu.in/  ./
 deb http://danieltaylor.tk/repo/  ./
 deb http://cydia.myrepospace.com/d4rkh0rse/  ./
 deb http://cydia.clezz.com/  ./
-#deb http://repo.andreaslarsen.dk/ ./
+deb http://repo.andreaslarsen.dk/ ./
 deb http://j-gessner.de/repo/ ./
-#deb http://weamdev.org/repo/ ./
+deb http://weamdev.org/repo/ ./
 deb http://cydia.myrepospace.com/Skylerk99/ ./
+deb http://repo.nielstron.de/ ./
+deb http://repo.cydro.us/ ./
