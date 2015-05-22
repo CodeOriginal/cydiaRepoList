@@ -76,7 +76,7 @@ deb http://cydia.ianburns.co/ ./
 deb http://apt.sapien.me/ ./
 deb http://cydia.rob311.com/repo/ ./
 deb http://cydia.r333d.com/ ./
-deb http://arcticsn0w.github.com/ ./
+deb http://arcetera.github.com/ ./
 deb http://repo.nesolabs.de/ ./
 deb http://noeliel.com/repo/ ./
 deb http://greenydev.github.io/repo/ ./
