@@ -102,3 +102,4 @@ deb http://weamdev.org/repo/ ./
 deb http://cydia.myrepospace.com/Skylerk99/ ./
 deb http://repo.nielstron.de/ ./
 deb http://repo.cydro.us/ ./
+Deb http://repo.aleksanderazizi.com/ ./
