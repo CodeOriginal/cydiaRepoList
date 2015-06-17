@@ -96,3 +96,4 @@ deb http://repo.cydro.us/ ./
 deb http://repo.aleksanderazizi.com/ ./
 deb http://repo.aethericdevteam.org ./
 deb http://thirdeyeruler.com/repo/ ./
+deb http://moshed.yourepo.com/ ./
