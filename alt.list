@@ -15,12 +15,10 @@ deb http://danyl.net/repo/ ./
 deb http://cydia.hbang.ws/ ./
 deb http://elijahandandrew.com/repo/ ./
 deb http://exile90software.com/cydia/beta ./
-deb http://exile90software.com/cydia ./
 deb http://betarepo.com/fontme/ ./
 deb http://cydia.angelxwind.net/ ./
 deb http://cydia.qusic.me/ ./
 deb http://rcrepo.com/ ./
-deb http://mirrors.xbmc.org/apt/ios/ ./
 deb http://mirrors.kodi.tv/apt/ios/ ./
 deb http://nix.howett.net/theos/ ./
 deb http://repo.thireus.com/ ./
@@ -33,7 +31,6 @@ deb http://chewitt.me/repo/ ./
 deb http://chickenmatt5.github.io/repo/ ./
 deb http://cydia.myrepospace.com/jormy/ ./
 deb http://cydia.jerryen.com/ ./
-deb http://repo.gsquared.io/ ./
 deb http://cydia.myrepospace.com/rj619/ ./
 deb http://cydia.myrepospace.com/shivadoc/ ./
 deb http://cydia.myrepospace.com/SkumarSpace/ ./
@@ -41,7 +38,6 @@ deb http://cydia.myrepospace.com/DomT4/ ./
 deb http://iPHONiX.myrepospace.com/ ./
 deb http://dbk1ng.myrepospace.com/ ./
 deb http://insanj.com/repo/ ./
-deb http://cydia.myrepospace.com/PoomSmart/ ./
 deb http://cydia.myrepospace.com/pw5a29ip4/ ./
 deb http://cydia.myrepospace.com/ImLemonPartying/ ./
 deb http://cydia.myrepospace.com/jontelang/ ./
@@ -83,7 +79,7 @@ deb http://typ0s2d10.appspot.com/repo/ ./
 deb http://cydia.grimore.org/ ./
 deb http://ios-webstack.tk/cydia/ ./
 deb http://yangapp.googlecode.com/svn/ ./
-deb http://willfeeltips.appspot.com/apt/ ./
+deb http://cydia.ichitaso.com/ ./
 deb http://ftp.sident.net/cydia-beta/ ./
 deb http://cydia.hiraku.tw/ ./
 deb http://cydia.evilpengu.in/  ./
@@ -91,7 +87,6 @@ deb http://danieltaylor.tk/repo/  ./
 deb http://cydia.myrepospace.com/d4rkh0rse/  ./
 deb http://cydia.clezz.com/  ./
 deb http://cydia.myrepospace.com/Skylerk99/ ./
-deb http://repo.nielstron.de/ ./
 deb http://repo.cydro.us/ ./
 deb http://repo.aleksanderazizi.com/ ./
 deb http://repo.aethericdevteam.org ./
