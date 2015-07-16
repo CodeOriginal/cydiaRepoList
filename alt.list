@@ -38,7 +38,7 @@ deb http://cydia.myrepospace.com/DomT4/ ./
 deb http://iPHONiX.myrepospace.com/ ./
 deb http://dbk1ng.myrepospace.com/ ./
 deb http://insanj.com/repo/ ./
-deb http://cydia.myrepospace.com/pw5a29ip4/ ./
+deb http://pw5a29.github.io/ ./
 deb http://cydia.myrepospace.com/ImLemonPartying/ ./
 deb http://cydia.myrepospace.com/jontelang/ ./
 deb http://cydia.myrepospace.com/reeiiko/ ./
